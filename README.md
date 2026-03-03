@@ -11,11 +11,11 @@ This project explores Deep Reinforcement Learning (DRL) in autonomous racing sim
 
 ## Example Training Results
 
-![Reward Curve](assets/reward_curve.png)
+![Reward Curve](repo_assets/reward_curve.png)
 
-![Speed Curve](assets/speed_curve.png)
+![Speed Curve](repo_assets/speed_curve.png)
 
-![Collision Curve](assets/collision_curve.png)
+![Collision Curve](repo_assets/collision_curve.png)
 
 ## Notes:
 Assets from Kenney: https://kenney.nl/
