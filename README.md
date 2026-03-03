@@ -6,5 +6,16 @@ This project explores Deep Reinforcement Learning (DRL) in autonomous racing sim
 
 ## Technologies Used:
 1. Unity Game Engine
-2. C#
+2. C# Language
 3. Unity ML-Agents package
+
+## Example Training Results
+
+![Reward Curve](assets/reward_curve.png)
+
+![Speed Curve](assets/speed_curve.png)
+
+![Collision Curve](assets/collision_curve.png)
+
+## Notes:
+Assets from Kenney: https://kenney.nl/
