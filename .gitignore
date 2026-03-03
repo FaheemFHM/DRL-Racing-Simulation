@@ -97,3 +97,14 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+
+
+# my stuff
+/[Aa]ssets/[Kk]enney/
+/[Aa]ssets/[Tt]extMesh Pro/
+/[Aa]ssets/[Mm]L-Agents/
+/[Bb]uild_1/
+/[Bb]uild_2/
+/[Rr]esults/[Oo]ld/
+/[Dd]ata/

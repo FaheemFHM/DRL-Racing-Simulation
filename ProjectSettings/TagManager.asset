@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - folder_obstacles
+  - folder_decorations
+  - folder_checkpoints
+  - pivot_camera
+  - folder_cars
+  - UI
+  - folder_walls
+  - Wall
+  - Checkpoint
+  - folder_road
+  - Ground
+  - folder_spawnpoints
+  - Map
+  - Environment
+  - Obstacle
+  - FakePoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Player
+  - 
+  - 
+  - Road
+  - Wall
+  - Checkpoints
+  - Obstacles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
